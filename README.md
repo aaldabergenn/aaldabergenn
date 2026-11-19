@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/assel-banner.jpg" alt="Assel Aldabergen — Design, Technology, Research" width="100%" />
+**Assel Aldabergen**
 
 **Computer Science student at Astana IT University** &nbsp;·&nbsp; **UI/UX design enthusiast**  
 Astana, Kazakhstan &nbsp;·&nbsp; Expected graduation: 2027

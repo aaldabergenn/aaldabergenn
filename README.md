@@ -1,149 +1,86 @@
-
 <div align="center">
 
-# Assel Aldabergen 
+<img src="assets/assel-banner.jpg" alt="Assel Aldabergen — Design, Technology, Research" width="100%" />
 
-### Computer Science Student | Aspiring UI/UX Designer
+**Computer Science student at Astana IT University** &nbsp;·&nbsp; **UI/UX design enthusiast**  
+Astana, Kazakhstan &nbsp;·&nbsp; Expected graduation: 2027
 
-🎓 Astana IT University (AITU) — Class of 2027
-
-🎨 Interested in UI/UX Design and Creative Technology
-
-🤖 Exploring Artificial Intelligence and Machine Learning
-
-📍 Astana, Kazakhstan
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-# 🚀 My Projects
-
-## 🎨 UI/UX Design
-
-### ☕ OFFBEAT Coffee — Self-Service Kiosk
-
-[View Project](https://github.com/aaldabergenn/offbeat-coffee-kiosk)
-
-Designed a two-screen self-service coffee ordering kiosk concept featuring:
-
-- Digital drink menu and shopping cart
-- Customer loyalty card interface
-- Purchase history and customer information display
-- Payment method selection
-
-**Tools:** Figma Make, HTML, CSS
-
----
-
-## 💻 Web Development
-
-### ☕ Coffee Shop Website
-
-Developed a full-stack coffee ordering website with:
-
-- User registration and authentication
-- Coffee and dessert menu
-- Customizable drinks and syrups
-- Shopping cart and order management
-- MongoDB database integration
-- KZT to USD currency conversion
-
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express, MongoDB
-
-*Project recovery in progress.*
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-### 🏓 Teaching AI to Play Pong — DQN vs. PPO
-
-[View Project](https://github.com/aaldabergenn/pong-rl-dqn-vs-ppo)
-
-Developed a custom Gymnasium Pong environment and compared reinforcement learning approaches.
-
-- Double DQN implementation
-- PPO agent training
-- Performance comparison and visualization
-
-**Technologies:** Python, PyTorch, Gymnasium
-
----
-
-### 🛡️ Network Intrusion Detection & Anomaly Analysis
-
-[View Project](https://github.com/aaldabergenn/network-intrusion-detection-ml)
-
-Machine learning project using the KDD Cup 1999 dataset.
-
-- Data preprocessing and exploratory analysis
-- Attack severity estimation
-- Clustering and anomaly detection
-- Model evaluation
-
-**Technologies:** Python, Scikit-learn, Pandas
-
----
-
-### ⭐ Star Wars Species Classifier
-
-[View Project](https://github.com/aaldabergenn/star-wars-species-classifier)
-
-Classified Star Wars characters as Human or Non-Human based on their characteristics.
-
-- Decision Tree and KNN
-- Random Forest and Gradient Boosting
-- K-Means clustering
-- Model comparison and evaluation
-
-**Technologies:** Python, Scikit-learn, Pandas
-
----
-
-## 🔬 Research
-
-### 💊 Machine Learning for Individualized Warfarin Dosing
-
-Research project exploring:
-
-- Missing-data handling
-- Cross-site validation
-- Machine learning for individualized warfarin dose prediction
-- IWPC cohort data analysis
-
-**Status:** Manuscript in preparation
-
-*Research code and manuscript are not publicly available.*
-
----
-
-## 🌏 Languages
-
- Kazakh — Native
-
- Russian — Fluent
-
- English — B2
-
- Korean — Upper-Intermediate
-
----
-
-## 📫 Contact
-
-📧 [Email](mailto:aselaldabergenova03@gmail.com)
-
-💼 [GitHub](https://github.com/aaldabergenn)
+[Portfolio projects](#selected-work) &nbsp;·&nbsp; [Technical projects](#development--machine-learning) &nbsp;·&nbsp; [Email](mailto:aselaldabergenova03@gmail.com)
 
 </div>
+
+---
+
+### About
+
+I'm a third-year Computer Science student exploring **UI/UX design** and the intersection of visual design and technology. I enjoy shaping clear, easy-to-use interfaces and bring a technical perspective from web development, machine learning, and research projects.
+
+### Selected work
+
+#### 01 / OFFBEAT Coffee — Self-Service Kiosk
+
+**UI/UX concept · Figma Make · HTML · CSS**  
+[View repository](https://github.com/aaldabergenn/offbeat-coffee-kiosk)
+
+A two-screen ordering-kiosk concept for a coffee shop. Designed the product menu, cart, loyalty-card lookup interface, customer purchase summary, and payment-method selection. This is a **visual prototype**, not a live payment or database system.
+
+<img src="assets/offbeat-coffee-ui.png" alt="OFFBEAT Coffee — menu and checkout UI concept" width="740" />
+
+### Development & Machine Learning
+
+#### 02 / Teaching AI to Play Pong — Double DQN vs. PPO
+
+**Reinforcement learning · Python · PyTorch · Gymnasium**  
+[View repository](https://github.com/aaldabergenn/pong-rl-dqn-vs-ppo)
+
+A collaborative university project implementing a custom Pong environment and comparing Double DQN with PPO. Includes training experiments and head-to-head gameplay evaluation.
+
+<img src="assets/dqn_vs_ppo.gif" alt="Recorded gameplay: DQN versus PPO" width="480" />
+
+<sub>Recorded gameplay from the course project; developed with Bakhtiyar Abussagitov.</sub>
+
+#### 03 / Network Intrusion Detection & Anomaly Analysis
+
+**Machine learning · Python · Scikit-learn · KDD Cup 1999**  
+[View repository](https://github.com/aaldabergenn/network-intrusion-detection-ml)
+
+Explored network-traffic preprocessing, rule-derived attack-severity estimation, clustering, and anomaly detection as part of an academic cybersecurity ML project.
+
+#### 04 / Star Wars Species Classifier
+
+**Machine learning · Python · Scikit-learn**  
+[View repository](https://github.com/aaldabergenn/star-wars-species-classifier)
+
+Explored Human versus Non-Human classification using character features, Decision Tree, KNN, Random Forest, Gradient Boosting, and K-Means clustering.
+
+#### 05 / Coffee Shop Website
+
+**Web development · HTML · CSS · JavaScript · Express · MongoDB**  
+*University project — source recovery in progress*
+
+Built a coffee-ordering web application featuring accounts, a product menu, custom drink options, a cart, and order submission. The original frontend has been partially recovered; the full working application is not currently published.
+
+### Research
+
+#### 06 / Machine Learning for Individualized Warfarin Dosing
+
+**Healthcare ML · Research project**  
+*Unpublished manuscript — being revised for potential journal submission*
+
+Investigated how missing-data handling and cross-site validation affect machine-learning approaches to individualized warfarin dose prediction using the IWPC cohort. Code, findings, and manuscript are not publicly shared at this stage.
+
+---
+
+### Tools & skills
+
+**Design:** Figma Make (beginner), Canva  
+**Development:** Python, HTML, CSS, JavaScript, SQL; basic Java  
+**Other tools:** VS Code, PyCharm, PowerPoint, Excel
+
+### Languages
+
+Kazakh — native &nbsp;·&nbsp; Russian — fluent &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Korean — upper-intermediate (self-assessed)
+
+### Contact
+
+[aselaldabergenova03@gmail.com](mailto:aselaldabergenova03@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/aaldabergenn)

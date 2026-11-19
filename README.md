@@ -1,6 +1,6 @@
 <div align="center">
 
-**Assel Aldabergen**
+<h1>Assel Aldabergen</h1>
 
 **Computer Science student at Astana IT University** &nbsp;·&nbsp; **UI/UX design enthusiast**  
 Astana, Kazakhstan &nbsp;·&nbsp; Expected graduation: 2027

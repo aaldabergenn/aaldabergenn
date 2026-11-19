@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Assel! 👋
+# Assel Aldabergen 
 
 ### Computer Science Student | Aspiring UI/UX Designer
 
@@ -111,21 +111,6 @@ Classified Star Wars characters as Human or Non-Human based on their characteris
 
 ---
 
-### 🧠 Machine Learning & Deep Learning Course Project
-
-Explored multiple machine learning and deep learning methods.
-
-- Classification algorithms
-- Dimensionality reduction: PCA, t-SNE, UMAP
-- Neural networks and optimizers
-- CNN classification using MNIST
-
-**Technologies:** Python, Scikit-learn, PyTorch
-
-*Academic course project.*
-
----
-
 ## 🔬 Research
 
 ### 💊 Machine Learning for Individualized Warfarin Dosing
@@ -145,13 +130,13 @@ Research project exploring:
 
 ## 🌏 Languages
 
-🇰🇿 Kazakh — Native
+ Kazakh — Native
 
-🇷🇺 Russian — Fluent
+ Russian — Fluent
 
-🇬🇧 English — B2
+ English — B2
 
-🇰🇷 Korean — Upper-Intermediate
+ Korean — Upper-Intermediate
 
 ---
 

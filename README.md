@@ -19,7 +19,7 @@ I'm a third-year Computer Science student exploring **UI/UX design** and the int
 
 #### 01 / OFFBEAT Coffee — Self-Service Kiosk
 
-**UI/UX concept · Figma Make · HTML · CSS**  
+**UI/UX concept · Figma · HTML · CSS**  
 [View repository](https://github.com/aaldabergenn/offbeat-coffee-kiosk)
 
 A two-screen ordering-kiosk concept for a coffee shop. Designed the product menu, cart, loyalty-card lookup interface, customer purchase summary, and payment-method selection. This is a **visual prototype**, not a live payment or database system.
@@ -73,14 +73,14 @@ Investigated how missing-data handling and cross-site validation affect machine-
 
 ### Tools & skills
 
-**Design:** Figma Make (beginner), Canva  
+**Design:** Figma Make 
 **Development:** Python, HTML, CSS, JavaScript, SQL; basic Java  
-**Other tools:** VS Code, PyCharm, PowerPoint, Excel
+**Other tools:** VS Code, PyCharm
 
 ### Languages
 
-Kazakh — native &nbsp;·&nbsp; Russian — fluent &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Korean — upper-intermediate (self-assessed)
+Kazakh — native &nbsp;·&nbsp; Russian — fluent &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Korean — upper-intermediate
 
 ### Contact
 
-[aselaldabergenova03@gmail.com](mailto:aselaldabergenova03@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/aaldabergenn)
+[E-mail](mailto:aselaldabergenova03@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/aaldabergenn)

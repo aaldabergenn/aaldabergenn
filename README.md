@@ -73,7 +73,7 @@ Investigated how missing-data handling and cross-site validation affect machine-
 
 ### Tools & skills
 
-**Design:** Figma Make 
+**Design:** Figma 
 **Development:** Python, HTML, CSS, JavaScript, SQL; basic Java  
 **Other tools:** VS Code, PyCharm
 

@@ -85,7 +85,7 @@ Research exploring missing-data handling and cross-site validation for machine-l
 
 ## Tools & skills
 
-**Design:** Figma
+**Design:** Figma<br>
 **Programming:** Python, HTML, CSS, JavaScript, SQL; basic Java  
 **Tools:** VS Code, PyCharm
 

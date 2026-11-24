@@ -1,86 +1,98 @@
 <div align="center">
 
-<h1>Assel Aldabergen</h1>
+# Assel Aldabergen
 
-**Computer Science student at Astana IT University** &nbsp;·&nbsp; **UI/UX design enthusiast**  
-Astana, Kazakhstan &nbsp;·&nbsp; Expected graduation: 2027
+**Computer Science student at Astana IT University · Aspiring UI/UX Designer**  
+Astana, Kazakhstan · Expected graduation: 2027
 
-[Portfolio projects](#selected-work) &nbsp;·&nbsp; [Technical projects](#development--machine-learning) &nbsp;·&nbsp; [Email](mailto:aselaldabergenova03@gmail.com)
+[Design & web projects](#selected-work) · [Technical projects](#development--machine-learning) · [Contact](#contact)
 
 </div>
 
 ---
 
-### About
+## About
 
-I'm a third-year Computer Science student exploring **UI/UX design** and the intersection of visual design and technology. I enjoy shaping clear, easy-to-use interfaces and bring a technical perspective from web development, machine learning, and research projects.
+I'm a third-year Computer Science student with an interest in UI/UX design, web development, and machine learning. I enjoy creating clear, practical interfaces and bringing together visual design and technical implementation.
 
-### Selected work
+## Selected work
 
-#### 01 / OFFBEAT Coffee — Self-Service Kiosk
+### 01 / OFFBEAT Coffee — Self-Service Kiosk
 
-**UI/UX concept · Figma · HTML · CSS**  
+**UI/UX concept · Figma Make · HTML · CSS**  
 [View repository](https://github.com/aaldabergenn/offbeat-coffee-kiosk)
 
-A two-screen ordering-kiosk concept for a coffee shop. Designed the product menu, cart, loyalty-card lookup interface, customer purchase summary, and payment-method selection. This is a **visual prototype**, not a live payment or database system.
+A two-screen coffee ordering kiosk concept covering the menu, cart, loyalty-card lookup, customer purchase summary, and payment-method selection. This is a UI prototype, not a connected payment or customer database system.
 
-<img src="assets/offbeat-coffee-ui.png" alt="OFFBEAT Coffee — menu and checkout UI concept" width="740" />
+<img src="assets/offbeat-coffee-ui.png" alt="OFFBEAT Coffee kiosk: menu and checkout concept" width="760" />
 
-### Development & Machine Learning
+### 02 / Coffee Studio — Full-Stack Coffee Ordering Website
 
-#### 02 / Teaching AI to Play Pong — Double DQN vs. PPO
+**UI design & web development · HTML · CSS · JavaScript · Node.js · Express · MongoDB**  
+[View repository](https://github.com/aaldabergenn/coffee-studio-fullstack)
+
+A functional coffee ordering website with a lavender-and-deep-purple interface. Features include user registration and login, a menu of coffee and desserts, syrup customization, a shopping cart, order creation, and approximate KZT-to-USD conversion through an exchange-rate API.
+
+**Coffee menu**
+
+<img src="assets/coffee-studio-menu.png" alt="Coffee Studio: coffee menu with four drink cards" width="760" />
+
+**Desserts menu**
+
+<img src="assets/coffee-studio-desserts.png" alt="Coffee Studio: dessert menu with four product cards" width="760" />
+
+**Shopping cart and currency conversion**
+
+<img src="assets/coffee-studio-cart.png" alt="Coffee Studio: order summary in KZT and approximate USD" width="620" />
+
+## Development & Machine Learning
+
+### 03 / Teaching AI to Play Pong — Double DQN vs. PPO
 
 **Reinforcement learning · Python · PyTorch · Gymnasium**  
 [View repository](https://github.com/aaldabergenn/pong-rl-dqn-vs-ppo)
 
-A collaborative university project implementing a custom Pong environment and comparing Double DQN with PPO. Includes training experiments and head-to-head gameplay evaluation.
+A collaborative university project that implements a custom Pong environment and compares Double DQN and PPO using training experiments and gameplay evaluation.
 
-<img src="assets/dqn_vs_ppo.gif" alt="Recorded gameplay: DQN versus PPO" width="480" />
+<img src="assets/dqn_vs_ppo.gif" alt="Recorded Pong gameplay: Double DQN versus PPO" width="480" />
 
-<sub>Recorded gameplay from the course project; developed with Bakhtiyar Abussagitov.</sub>
+<sub>Course project with Bakhtiyar Abussagitov.</sub>
 
-#### 03 / Network Intrusion Detection & Anomaly Analysis
+### 04 / Network Intrusion Detection & Anomaly Analysis
 
 **Machine learning · Python · Scikit-learn · KDD Cup 1999**  
 [View repository](https://github.com/aaldabergenn/network-intrusion-detection-ml)
 
-Explored network-traffic preprocessing, rule-derived attack-severity estimation, clustering, and anomaly detection as part of an academic cybersecurity ML project.
+Academic work on traffic preprocessing, attack-severity estimation, clustering, and anomaly analysis.
 
-#### 04 / Star Wars Species Classifier
+### 05 / Star Wars Species Classifier
 
 **Machine learning · Python · Scikit-learn**  
 [View repository](https://github.com/aaldabergenn/star-wars-species-classifier)
 
-Explored Human versus Non-Human classification using character features, Decision Tree, KNN, Random Forest, Gradient Boosting, and K-Means clustering.
+Classification of fictional characters using Decision Tree, KNN, Random Forest, Gradient Boosting, and clustering techniques.
 
-#### 05 / Coffee Shop Website
+## Research
 
-**Web development · HTML · CSS · JavaScript · Express · MongoDB**  
-*University project — source recovery in progress*
-
-Built a coffee-ordering web application featuring accounts, a product menu, custom drink options, a cart, and order submission. The original frontend has been partially recovered; the full working application is not currently published.
-
-### Research
-
-#### 06 / Machine Learning for Individualized Warfarin Dosing
+### 06 / Machine Learning for Individualized Warfarin Dosing
 
 **Healthcare ML · Research project**  
-*Unpublished manuscript — being revised for potential journal submission*
+*Unpublished manuscript — in revision for potential journal submission*
 
-Investigated how missing-data handling and cross-site validation affect machine-learning approaches to individualized warfarin dose prediction using the IWPC cohort. Code, findings, and manuscript are not publicly shared at this stage.
+Research exploring missing-data handling and cross-site validation for machine-learning-based warfarin dose prediction. The manuscript and research code are not publicly shared.
 
 ---
 
-### Tools & skills
+## Tools & skills
 
-**Design:** Figma 
-**Development:** Python, HTML, CSS, JavaScript, SQL; basic Java  
-**Other tools:** VS Code, PyCharm
+**Design:** Figma
+**Programming:** Python, HTML, CSS, JavaScript, SQL; basic Java  
+**Tools:** VS Code, PyCharm
 
-### Languages
+## Languages
 
-Kazakh — native &nbsp;·&nbsp; Russian — fluent &nbsp;·&nbsp; English — B2 &nbsp;·&nbsp; Korean — upper-intermediate
+Kazakh — native · Russian — fluent · English — B2 · Korean — upper-intermediate 
 
-### Contact
+## Contact
 
-[E-mail](mailto:aselaldabergenova03@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/aaldabergenn)
+[Email](mailto:aselaldabergenova03@gmail.com) · [GitHub](https://github.com/aaldabergenn)

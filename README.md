@@ -50,7 +50,7 @@ A functional coffee ordering website with a lavender-and-deep-purple interface. 
 
 **UI/UX Design · Figma · 2026**
 
-**Status: Work in Progress — Early Design Stage**
+**Status: Work in Progress - Early Design Stage**
 
 An ongoing UI/UX design project for a drama streaming platform focused on intuitive navigation, drama discovery, and a seamless viewing experience.
 

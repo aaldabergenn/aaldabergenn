@@ -45,9 +45,34 @@ A functional coffee ordering website with a lavender-and-deep-purple interface. 
 
 <img src="assets/coffee-studio-cart.png" alt="Coffee Studio: order summary in KZT and approximate USD" width="620" />
 
+
+### 03 / dorama. - Drama Streaming Platform
+
+**UI/UX Design · Figma · 2026**
+
+**Status: Work in Progress — Early Design Stage**
+
+An ongoing UI/UX design project for a drama streaming platform focused on intuitive navigation, drama discovery, and a seamless viewing experience.
+
+Currently designing the interface in Figma, starting with the homepage, drama cards, navigation, and continue-watching experience.
+
+**Current progress:**
+- Initial wireframes and page structure
+- Visual identity and color palette
+- Homepage UI design
+- Drama cards with ratings
+- Continue-watching section with episode progress
+
+**Next steps:** Drama details, catalog, advanced filters, video player, and interactive prototype.
+
+[View Project](https://github.com/aaldabergenn/dorama-uiux-design)
+
+![dorama. Homepage Preview](https://raw.githubusercontent.com/aaldabergenn/dorama-uiux-design/main/screenshots/homepage.png)
+
+
 ## Development & Machine Learning
 
-### 03 / Teaching AI to Play Pong — Double DQN vs. PPO
+### 04 / Teaching AI to Play Pong — Double DQN vs. PPO
 
 **Reinforcement learning · Python · PyTorch · Gymnasium**  
 [View repository](https://github.com/aaldabergenn/pong-rl-dqn-vs-ppo)
@@ -58,14 +83,14 @@ A collaborative university project that implements a custom Pong environment and
 
 <sub>Course project with Bakhtiyar Abussagitov.</sub>
 
-### 04 / Network Intrusion Detection & Anomaly Analysis
+### 05 / Network Intrusion Detection & Anomaly Analysis
 
 **Machine learning · Python · Scikit-learn · KDD Cup 1999**  
 [View repository](https://github.com/aaldabergenn/network-intrusion-detection-ml)
 
 Academic work on traffic preprocessing, attack-severity estimation, clustering, and anomaly analysis.
 
-### 05 / Star Wars Species Classifier
+### 06 / Star Wars Species Classifier
 
 **Machine learning · Python · Scikit-learn**  
 [View repository](https://github.com/aaldabergenn/star-wars-species-classifier)
@@ -74,7 +99,7 @@ Classification of fictional characters using Decision Tree, KNN, Random Forest, 
 
 ## Research
 
-### 06 / Machine Learning for Individualized Warfarin Dosing
+### 07 / Machine Learning for Individualized Warfarin Dosing
 
 **Healthcare ML · Research project**  
 *Unpublished manuscript — in revision for potential journal submission*
